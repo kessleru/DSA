@@ -13,7 +13,8 @@ O curso aborda desde conceitos fundamentais até problemas avançados, com foco 
 DSA/
 ├── Arrays-Strings/           # Problemas e conceitos de Arrays e Strings
 │   ├── 557-Reverse-Words-in-a-String-III.py
-│   └── Binary-Search.py
+│   ├── Binary_Search.py
+│   └── Exponencial_Search.py
 ├── LICENSE
 └── README.md
 ```
@@ -33,6 +34,7 @@ Para uma melhor compreensão dos conceitos, utilizo diagramas e visualizações 
 ### Arrays e Strings
 - [x] Reversão de palavras em strings
 - [x] Busca binária em arrays
+- [x] Busca exponencial em arrays
 - [ ] Mais problemas em desenvolvimento...
 
 ## 📝 Problemas Resolvidos
@@ -40,4 +42,5 @@ Para uma melhor compreensão dos conceitos, utilizo diagramas e visualizações 
 | Problema | Dificuldade | Categoria | Status |
 |----------|-------------|-----------|--------|
 | [557. Reverse Words in a String III](Arrays-Strings/557-Reverse-Words-in-a-String-III.py) | Easy | Arrays/Strings | ✅ |
-| [Binary Search](Arrays-Strings/Binary-Search.py) | Easy | Arrays/Search | ✅ |
+| [Binary Search](Arrays-Strings/Binary_Search.py) | Easy | Arrays/Search | ✅ |
+| [Exponential Search](Arrays-Strings/Exponencial_Search.py) | Medium | Arrays/Search | ✅ |

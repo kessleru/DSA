@@ -24,7 +24,7 @@ DSA/
 Para uma melhor compreensão dos conceitos, utilizo diagramas e visualizações criados no Excalidraw:
 
 ### Arrays e Strings
-🔗 **[Visualizar Diagramas - Arrays e Strings](https://excalidraw.com/#json=O5dRohaZDTOKqxhjtboEm,2kPjisZ0bBeVw_W8TfpWHg)**
+🔗 **[Visualizar Diagramas - Arrays e Strings](https://excalidraw.com/#json=jnVi6Y1jlDSbn1VZ0a5QU,VRKDIF12OCmS5aIKZZf6nw)**
 
 ### Outros Tópicos
 🔄 *Diagramas em desenvolvimento - links serão adicionados conforme o progresso dos estudos*
